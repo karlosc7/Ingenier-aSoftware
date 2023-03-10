@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T11:42:15.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9s06HxZ0NM60qF3RUBit" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T11:43:22.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NKWP-DOkgzt8byE3QQRk" version="20.8.20" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
-    <mxGraphModel dx="2327" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="1a8abee3a6cfdf20-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Envío a Logística&lt;/font&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.internetGateway;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12;flipH=1;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="870" width="116.7" height="102.8" as="geometry" />
-        </mxCell>
-        <mxCell id="1a8abee3a6cfdf20-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;dashed=0;shape=mxgraph.aws3d.internetGateway;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;rounded=1;shadow=0;comic=0;fontSize=12;flipH=1;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="2302" y="1151" width="116.7" height="102.8" as="geometry" />
         </mxCell>
         <mxCell id="6lchD00nqYFVlTf24zqH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.891;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1a8abee3a6cfdf20-22" target="1a8abee3a6cfdf20-4">
           <mxGeometry relative="1" as="geometry" />
